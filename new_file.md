@@ -1,1 +1,1 @@
-This is all the content for my new file.
+This is some of the content for my new file.
